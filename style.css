@@ -5,3 +5,7 @@ img {
 body{
     margin-left: 50px;
 }
+
+p{
+    max-width: 650px;
+}
