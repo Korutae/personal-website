@@ -6,6 +6,17 @@ body{
     margin-left: 50px;
 }
 
+h1{
+    border-style: solid;
+    padding: 10px;
+    display:table; 
+}
+
+h2{
+    text-decoration: underline;
+    text-decoration-color: darkred
+}
+
 p{
     max-width: 650px;
 }
