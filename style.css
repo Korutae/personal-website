@@ -1,22 +1,37 @@
 img {
     width: 250px;
+    padding: 25px;
 }
 
 body{
     margin-left: 50px;
+    max-width: 650px;
+    background-color:lightgoldenrodyellow;
 }
 
 h1{
-    border-style: solid;
+    border-style: double;
     padding: 10px;
     display:table; 
+    background-color:gold;
 }
 
-h2{
-    text-decoration: underline;
-    text-decoration-color: darkred
+
+li{
+    background-color:gold;
+    
 }
 
 p{
     max-width: 650px;
+    background-color:rgb(210, 217, 224);
+    border-style: ridge;
+    border-width: 5px;
+    
+}
+
+h2{
+    text-decoration: underline;
+    text-decoration-color: darkred;
+    border-style:solid;
 }
